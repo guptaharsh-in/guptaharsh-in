@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harsh Gupta
 - 👀 I’m interested in Quant Trading.
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Quantitative Finance
+- 🌱 I’m currently learning Data Science.
+- 💞️ I’m looking to collaborate on Trading or Data Science.
 - 📫 How to reach me - https://www.guptaharsh.in/
 
 <!---
