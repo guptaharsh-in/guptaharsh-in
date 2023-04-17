@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harsh Gupta
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Deep Learning.
+- 👀 I’m interested in Data Analysis.
+- 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on Quantitative/Predictive Analysis.
 - 📫 How to reach me - https://www.guptaharsh.in/
 
