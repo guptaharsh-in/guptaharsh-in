@@ -4,7 +4,7 @@ QUANT_TRADER =  {
                  
                  "MATHS": "QUANTITATIVE ANALYSIS",
                  
-                 "CODE": "EXECUTION ANALYSIS,
+                 "CODE": "EXECUTION ANALYSIS",
                  
                  "DATA": "PREDICTIVE ANALYSIS"
                  
