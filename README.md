@@ -1,6 +1,10 @@
-QUANT_TRADER =  {
+QUANT_TRADER =  
+
+                 {
 
                  "MARKETS": "TECHNICAL ANALYSIS",
+                 
+                 "BUSINESS": "FUNDAMENTAL ANALYSIS",
                  
                  "MATHS": "QUANTITATIVE ANALYSIS",
                  
